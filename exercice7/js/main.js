@@ -1,0 +1,3 @@
+$(() => {
+    $("#text").css("display", "block")
+})

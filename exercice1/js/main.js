@@ -1,0 +1,4 @@
+$(() => {
+    $("#square")
+        .css("background", "red")
+});

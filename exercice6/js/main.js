@@ -1,0 +1,3 @@
+$(() => {
+    $("#text").append("Konexio !")
+})
